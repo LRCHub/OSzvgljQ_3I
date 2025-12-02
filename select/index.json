@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ぜろ",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-02T08:51:37.701977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぜろ",
+      "artist": "pinocchioP",
+      "has_synced": false,
+      "path": "select/01_ぜろ_pinocchioP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぜろ",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/02_ぜろ_PinocchioP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぜろ",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_ぜろ_ピノキオピー.txt"
+    }
+  ]
+}
